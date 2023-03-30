@@ -22,9 +22,19 @@ This repo contains the topics of study and timeline
 # Milestone
 Topline milestone:
 > **2023/5/1 Start testing end-to-end with selected lawyer groups, using MVP**
-## sub-milestones
+## Timeline
+| Goal                             | Details                                                | Target Date |
+|----------------------------------|--------------------------------------------------------|-------------|
+| Complete Ramp Up                 | Complete knowledge and ownership transfer from Honglei | 4/9/2023    |
+| Finish User Flow                 |                                                        | 4/16/2023   |
+| Finish Lawyer Flow               |                                                        | 4/23/2023   |
+| Cleanup User Experience          |                                                        | 4/30/2023   |
+| Onboard Real Lawyer Data         |                                                        | 5/7/2023    |
+| Real user tests and collect data |                                                        | 5/14/2023   |
+| Improve matching and chat engine |                                                        | 5/21/2023   |
+| Improve metrics and monitors     |                                                        | 5/28/2023   |
 ### User Features
-- [ ] Change last info collection step to option view for lawyer selection, based on preference
+- [ ] Change the last info collection step to option view for lawyer selection, based on preference
 - [ ] Notify users if lawyer accpets (include quote and message response), ask if they accept
 - [ ] User auth and personalized dashboard (all existing case and lawyer status history)
 ### Lawyer Features
