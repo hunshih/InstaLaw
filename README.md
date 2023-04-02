@@ -18,6 +18,7 @@ This repo contains the topics of study and timeline
   - [Django Backend API + Docker](https://dragonprogrammer.com/dockerized-django-api-angular-tutorial/)
   - [Postgres + Django](https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django)
   - [Benefit of Docker for Django](https://www.foadlind.com/articles/benefits-of-using-docker-for-django-projects.html#:~:text=With%20Docker%2C%20not%20only%20are,a%20different%20OS%20than%20you.)
+  - [Cloud SQL and PostgresSQL](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
 3. **GCP**
 4. Presto DB
 ### Third Party
